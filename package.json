@@ -1,6 +1,7 @@
 {
   "name": "mail-listener2",
   "version": "0.2.0",
+  "private": true,
   "description": "Mail listener library for node.js. Get notification when new email arrived.",
   "dependencies": {
     "imap": "https://github.com/getfyre/node-imap/archive/v0.8.19.tar.gz",
